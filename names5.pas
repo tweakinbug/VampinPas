@@ -1,4 +1,5 @@
 program names5;
+{comments}
 uses crt;
 var 
 namesArr:array  of string; {dynamic array}
